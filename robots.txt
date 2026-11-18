@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationtitusville.com/sitemap.xml
